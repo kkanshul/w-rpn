@@ -1,3 +1,3 @@
-# video_based_w-rpn
+# video based W-RPN
 
 ## Code and models coming soon!
